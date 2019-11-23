@@ -1,0 +1,23 @@
+body{
+	
+	line-height: 24px;
+	font-size: 14px;
+	color: #000000;
+	text-transform: capitalize;
+	font-family: 'Open Sans', sans-serif;
+}
+img{
+	max-width: 100%;
+}
+a:hover{
+	text-decoration: none;
+	outline: 0;
+	border: 0;
+}
+.headertab {
+    margin: 40px;
+}
+.headertab .nav{
+	justify-content: center;
+	-webkit-justify-content: center;
+}
